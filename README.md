@@ -5,5 +5,4 @@ Modern, user-centric UX/UI focused on simplicity, accessibility, and responsiven
 <img src= "img/card.png">
 
 # HoverEffect output
-**To see the full effect move the cursor in the image**
 <img src= "img/hoverimg.png">
